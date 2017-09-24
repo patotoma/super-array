@@ -1,6 +1,6 @@
 {
   "name": "super-array",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "JavaScript Array enhanced with O(1) access for properties by unique key",
   "license": "MIT",
   "repository": "patotoma/super-array",
