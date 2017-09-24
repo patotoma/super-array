@@ -10,7 +10,7 @@
     "url": "github.com/patotoma"
   },
   "engines": {
-    "node": ">=4"
+    "node": ">=6"
   },
   "scripts": {
     "build": "uglifyjs --compress --mangle --output dist.js -- src/index.js",
