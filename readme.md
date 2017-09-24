@@ -1,16 +1,13 @@
 # super-array
-[![Travis][build-badge]][build]
-[![npm package][npm-badge]][npm]
-[![Coveralls][coveralls-badge]][coveralls]
-
-[build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
-[build]: https://travis-ci.org/patotoma/super-array
-
-[npm-badge]: https://img.shields.io/npm/v/npm-package.png?style=flat-square
-[npm]: https://www.npmjs.org/package/super-array
-
-[coveralls-badge]: https://img.shields.io/coveralls/user/repo/master.png?style=flat-square
-[coveralls]: https://coveralls.io/github/patotoma/super-array
+[![Travis](https://img.shields.io/travis/patotoma/super-array.svg?style=flat-square)]()
+[![npm](https://img.shields.io/npm/v/super-array.svg?style=flat-square)]()
+[![npm](https://img.shields.io/npm/dw/super-array.svg?style=flat-square)]()
+[![Coveralls](https://img.shields.io/coveralls/patotoma/super-array.svg?style=flat-square)]()
+[![node](https://img.shields.io/node/v/super-array.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/patotoma/super-array.svg?style=social&label=Star&style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/patotoma/super-array.svg?style=social&label=Fork&style=flat-square)]()
+[![license](https://img.shields.io/github/license/patotoma/super-array.svg?style=flat-square)]()
+[![David](https://img.shields.io/david/patotoma/super-array.svg?style=flat-square)]()
 
 > Just like a normal JavaScript Array but enhanced with constant O(1) access time for properties by unique key!
 
@@ -53,7 +50,7 @@ myArray.get('Peter') // {id: 'ab2', name: 'Peter'}
 
 ## API
 
-### AggregateError(*arr*, *identifyFn*)
+### SuperArray(*arr*, *identifyFn*)
 
 ##### arr (optional):
 * Type: `<Array>`
