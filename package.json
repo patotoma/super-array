@@ -1,7 +1,7 @@
 {
   "name": "super-array",
   "version": "1.0.0",
-  "description": "Enhanced array with constant direct access by identifier",
+  "description": "JavaScript Array enhanced with O(1) access for properties by unique key",
   "license": "MIT",
   "repository": "patotoma/super-array",
   "author": {
